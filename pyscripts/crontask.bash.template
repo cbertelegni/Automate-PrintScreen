@@ -1,0 +1,4 @@
+#! /bin/bash
+
+source /home/user/path_to/ln_printscreen/.venv/bin/activate
+python /home/user/path_to/ln_printscreen/main.py
